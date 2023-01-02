@@ -23,6 +23,10 @@ public class NeoStoxHomePage
 	public NeoStoxHomePage(WebDriver driver)
 	{
 		PageFactory.initElements(driver,this );
+		System.out.println( "");
+		System.out.println( "");
+		System.out.println( "");
+		System.out.println( "");
 	}
 	
 	public void PopupHandle(WebDriver driver)
